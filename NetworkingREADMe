@@ -1,0 +1,28 @@
+# Overview
+
+This is a Simple Chat App that uses client/server relations to help computers talk to one another. This is an exersize that emphasizes the use of Networks. In this file, you should see that there are two files, one client and one server. Client is the basic user while the server is the host of the communications, acting as storage for users messages and time stamps. 
+
+# Network Communication
+
+The acritecture uses Client/Server communications between two users. It uses TCP and the port used is 5555. and that the format of the messages used is JSON, where its basically stored on a file and that file is distributed to all clients. 
+
+{Identify the format of messages being sent between the client and server or the messages sent between two peers.}
+
+# Development Environment
+- Python IDLE 3.12 (Mac Environment)
+- Microsoft Visual Code Studio
+- Git
+- Github
+
+# Useful Websites
+
+- geeksforgeeks.com
+- w3schools.com
+- Stackoverflow.org
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+* IPconfig to help with security measures
+* Username registration system to add more security measures
+* better GUI that actually looks user friendy
